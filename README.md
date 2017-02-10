@@ -544,3 +544,4 @@ Signed,
 - Thomas Orth ([@atf1999](https://github.com/atf1999)), Android and Web developer
 - Priyanshu Jain ([@priyanshujain](https://github.com/priyanshujain)), Student Researcher, Guru Ghasidas University,India
 - 杨伟庆 Wayne Yang([@wengzhong2001](https://github.com/wengzhong2001)), Software Engineer & Project Manager, Guangzhou, China
+- Faraz Francois Zolfaghari([@Farasy](https://github.com/Farasy)), Software Engineer, Bremen, Germany
